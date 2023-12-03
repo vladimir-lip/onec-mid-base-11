@@ -159,7 +159,7 @@
       <value>Контактное лицо</value>
     </synonym>
     <type>
-      <types>CatalogRef.КонтактныеЛица</types>
+      <types>CatalogRef.РВА_КонтактныеЛица</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
