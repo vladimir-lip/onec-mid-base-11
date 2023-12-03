@@ -79,6 +79,10 @@
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Description</name>
+    <synonym>
+      <key>ru</key>
+      <value>ФИО</value>
+    </synonym>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <fullTextSearch>Use</fullTextSearch>
@@ -108,25 +112,6 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <attributes uuid="de17f9d6-e573-4e71-a14b-d621c1e9b082">
-    <name>ФИО</name>
-    <synonym>
-      <key>ru</key>
-      <value>ФИО</value>
-    </synonym>
-    <type>
-      <types>String</types>
-      <stringQualifiers>
-        <length>150</length>
-      </stringQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillChecking>ShowError</fillChecking>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <attributes uuid="6a7e6c10-9a88-43e0-908e-5cdb5c96d81f">
     <name>КонтактныйТелефон</name>
     <synonym>
