@@ -11,7 +11,7 @@
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
   <content>Catalog.КонтактныеЛица</content>
-  <content>Catalog.Должность</content>
+  <content>Catalog.Должности</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Операции</subsystems>
 </mdclass:Subsystem>
